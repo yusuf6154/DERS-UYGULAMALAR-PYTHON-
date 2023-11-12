@@ -1,3 +1,2 @@
-# DERS-İCİ-UYGULAMALAR-PYTHON-
-https://coderspace.io/blog/python-101/
+# DERS-ICI-UYGULAMALAR-PYTHON-
 ![Alt text](TrabzonsporAmblemi.png)
