@@ -1,6 +1,6 @@
 def adamAsmaca():
 
-    import json
+    import json # deneme
     import os
 
     try:
