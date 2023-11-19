@@ -1,8 +1,4 @@
 from datetime import *
-print ("bugun:",date.today())
+print("bugun:",date.today())
 
-tamTarih = datetime.now()
-print("simdi:",tamTarih)
-
-
-
+tamTarih = date
