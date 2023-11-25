@@ -7,8 +7,8 @@ def anaMenu():
   print("║ 2-Adam Asmaca                                     ║")
   print("║ 3-Not Hesaplama                                   ║")
   print("║ 4-Aritmetik Sayım                                 ║")
-  print("║ 5-Aritmetik Sayım                                 ║")
-  print("║ 6-Aritmetik Sayım                                 ║")
+  print("║ 5-Çokgen Çizme                                    ║")
+  print("║ 6-                                                ║")
   print("║ 7-Aritmetik Sayım                                 ║")
   print("║ 8-Aritmetik Sayım                                 ║")
   print("║ 9-Aritmetik Sayım                                 ║")
@@ -21,6 +21,7 @@ def anaMenu():
   if secim == "2": adamAsmaca()
   if secim == "3": gectiKaldi()
   if secim == "4": aritmetikSayım() 
+  if secim == "5": cokgenCizme() 
   if secim == "10" or secim == "e" or secim == "E":
     print("PROGRAMDAN ÇIKILIYOR")
     exit()    
