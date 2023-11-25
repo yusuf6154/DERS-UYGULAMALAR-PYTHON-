@@ -7,7 +7,12 @@ def anaMenu():
   print("║ 2-Adam Asmaca                                     ║")
   print("║ 3-Not Hesaplama                                   ║")
   print("║ 4-Aritmetik Sayım                                 ║")
-  print("║ 5-Çıkış(e)                                        ║")
+  print("║ 5-Aritmetik Sayım                                 ║")
+  print("║ 6-Aritmetik Sayım                                 ║")
+  print("║ 7-Aritmetik Sayım                                 ║")
+  print("║ 8-Aritmetik Sayım                                 ║")
+  print("║ 9-Aritmetik Sayım                                 ║")
+  print("║ 10-Çıkış(e)                                       ║")
   print("║ Seçiminiz Nedir                                   ║")
   print("╚═══════════════════════════════════════════════════╝")
   secim = input()
@@ -16,6 +21,6 @@ def anaMenu():
   if secim == "2": adamAsmaca()
   if secim == "3": gectiKaldi()
   if secim == "4": aritmetikSayım() 
-  if secim == "5" or secim == "e" or secim == "E":
+  if secim == "10" or secim == "e" or secim == "E":
     print("PROGRAMDAN ÇIKILIYOR")
     exit()    
